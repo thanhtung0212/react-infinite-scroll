@@ -1,7 +1,7 @@
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/search-component.git`
-2. Navigate into the directory: `cd search-component`
+1. Clone the repository: `git clone https://github.com/thanhtung0212/react-infinite-scroll`
+2. Navigate into the directory: `cd react-infinite-scroll`
 3. Install the dependencies: `yarn`
 4. Start the application: `yarn dev`
 
